@@ -5,7 +5,7 @@
 
 - LLD
     - OOPS using Java
-    - LLD Data Structure using Java     
+    - Data Structure using Java     
     - Coding Practice
 - HLD
 - SQL
