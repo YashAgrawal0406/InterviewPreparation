@@ -1,10 +1,11 @@
-- Schedule
-- Subjects to Study
+- [Schedule](#Schedule)
+- [Subjects to Study](#Subjects-to-Study)
 
+# Schedule
 <table>
-  <tr style="font-size: 50px;">
-    <th><B>Time</B></th> 
-    <th><B>Task</B></th>  
+  <tr>
+    <th><h3>Time</h3></th> 
+    <th><h3><B>Task</B></h3></th>  
   </tr>
   <tr>
     <td> 7:00 am</td>
@@ -40,7 +41,7 @@
 
 
 
-<h1>Subjects to Study</h1>
+# Subjects to Study
 
 - LLD
     - OOPS using Java
