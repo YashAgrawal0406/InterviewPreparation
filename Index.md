@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td> 7:00 am</td>
-    <td>Get Up and get ready)</td>
+    <td>Get Up and get ready</td>
   </tr>
   <tr>
     <td> 8:30 am </td>
