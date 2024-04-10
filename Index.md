@@ -2,7 +2,7 @@
 - Subjects to Study
 
 <table>
-  <tr>
+  <tr style="font-size: 50px;">
     <th><B>Time</B></th> 
     <th><B>Task</B></th>  
   </tr>
